@@ -1,8 +1,8 @@
 # Cybersecurity Testing Lab Setup — WK1-PM1
 
-**Author:** Noorulain
-**Module:** Week 1 – Project Module 1
-**Task Reference:** Lab Setup for Cyber Security & Ethical Hacking Practice (Networkwalks Academy)
+**Author:** Noorulain.
+**Module:** Week 1 – Project Module 1.
+**Task Reference:** Lab Setup for Cyber Security & Ethical Hacking Practice (Networkwalks Academy).
 
 ---
 
